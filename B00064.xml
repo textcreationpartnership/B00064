@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most strange and true report of a monsterous fish, who appeared in the forme of a woman, from her waste vpwards.</title>
+            <author>P. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00064</idno>
+            <idno type="STC">STC 11501.5</idno>
+            <idno type="STC">ESTC S92613</idno>
+            <idno type="EEBO-CITATION">54532354</idno>
+            <idno type="OCLC">ocm 54532354</idno>
+            <idno type="VID">180786</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00064)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180786)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2134:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most strange and true report of a monsterous fish, who appeared in the forme of a woman, from her waste vpwards.</title>
+                  <author>P. G.</author>
+               </titleStmt>
+               <extent>7 p : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for W.B.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1604?].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: G.P.</note>
+                  <note>Illustrated title page.</note>
+                  <note>Reproduction of original in: National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mermaids --  Great Britain --  Early works to 1800.</term>
+               <term>Ocean --  Folklore --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="modern_commentary">
+            <pb facs="tcp:180786:1"/>
+            <!-- PDF PAGE 92 -->
+            <pb facs="tcp:180786:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <head>Museum Notes</head>
+            <byline>By A. L. LEACH, F.G.S., Hon Curator.</byline>
+            <head>A TALE OF THE SEA.</head>
+            <p>A few weeks ago these Notes contained an account of the Merman of Linney Head, taken from a strange story related by a farmer who claimed to have seen the creature in December, 1781. An earlier story of one of these perplexing appear<g ref="char:EOLhyphen"/>ances has now come to light according to Mr. H. M. Vaughan, who writes as follows:</p>
+            <div type="part">
+               <head>A MERMAID AT PENDINE.</head>
+               <p>A curious and indeed unique little pamphlet recently purchased by the National Library of Wales, is an account of the appearance of a Mermaid off the coast at Pendine over 340 years ago. This pamphlet, which was unknown at the British Museum, where the authori<g ref="char:EOLhyphen"/>ties are greatly interested in its discov<g ref="char:EOLhyphen"/>ery, consists of four leaves octavo with the text in black letter and a picture of the Mermaid on the title page. It is shown as "Imprinted at London, 1603, for W.B." The title runs "A most strange and true Report of a Monsterous Fish that appeared in the form of a Woman from her waist upwards, seene in the Sea by divers men of good repu<g ref="char:EOLhyphen"/>tation on the 17 of February 1603, near Gylmanes poynt in the parish of Pendine in the Countie of Carmarthen."</p>
+               <p>The account of the Mermaid is con<g ref="char:EOLhyphen"/>tained in a letter by "Mr. P. G." to his cousin "Mr. H. P." in London, and from internal evidence it appears to be based on a careful enquiry made by Mr. William Sandars, of Pendine, a magis<g ref="char:EOLhyphen"/>trate and otherwise a person of local influence, but he did not make his inves<g ref="char:EOLhyphen"/>tigation until several weeks after the event. Many witnesses were then exam<g ref="char:EOLhyphen"/>ined and the report contains the names of thirteen of these in full. Here is the substance of the story.</p>
+               <p>The creature was first observed by one Thomas Raynold, yeoman, who after watching it for two hours, fetched several friends and neighbours so that they might see the weird object and bear witness to its reality. It had "the shape of a lively Woman from her waist up<g ref="char:EOLhyphen"/>wards which was all above the water; her collour browne: a very large and fayre [head of] Haire: her breasts round and very white with two fayre handes: everything formally as a Woman." This description tallies with the figure on the title page. Various people watched the strange obect until darkness set in: then it was lost to sight and was not seen or heard of again.</p>
+               <p>What did all these people see? Was it a dugong or manatee or other visitor from tropical seas, or was it, as the picture seems to suggest, an unusually large seal? The chief hindrance to an acceptance of these naturalistic explana<g ref="char:EOLhyphen"/>tions arises from the very human hands and arms. Much imagination would need to be called into play to convert a seal's paddles into the "two fayre handes" shown in the drawing. But
+<pb facs="tcp:180786:2"/>
+                  <!-- PDF PAGE 93 -->apart from these features the figure might be interpreted as a representation of a seal.</p>
+               <p>I hope to obtain from the National Library a photostat facsimile of this rare if not unique pamphlet concerning the Mermaid. This copy will be placed in the Library of the Tenby Museum.</p>
+               <p>It is a curious coincidence that the nar<g ref="char:EOLhyphen"/>ratives of the Pendine Mermaid and the Linney Head Merman both begin with stories told by local farmers, Raynold and Reynold respectively, bearing names so unusual in this district that neither of them appears in the current list of Electors in the parish of St. Mary's-in-Liberty. Again in each case the creature had human hands and arms, and the descriptions of its ap<g ref="char:EOLhyphen"/>pearance were written not by the chief witnesses but by local persons of impor<g ref="char:EOLhyphen"/>tance. May it not be that the Linney Head story is a distorted version, told long afterwards, of the Pendine event and that this may have arisen from an exaggerated and imaginative account of a very large seal?</p>
+               <pb facs="tcp:180786:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 93 -->
+               <pb facs="tcp:180786:3"/>
+               <!-- PDF PAGE 94 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:180786:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 94 -->
+            </div>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:180786:4"/>
+            <!-- PDF PAGE 95 -->
+            <pb facs="tcp:180786:4"/>
+            <!-- PDF PAGE 95 -->
+            <p>A moſt ſtrange and true report of a monſterous Fiſh, who appeared in the forme of a Woman, from her waſte vpwards.</p>
+            <figure>
+               <figDesc>depiction of a mermaid</figDesc>
+            </figure>
+            <p>Imprinted at London for W.B.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:180786:5"/>
+            <!-- PDF PAGE 96 -->
+            <pb facs="tcp:180786:5"/>
+            <!-- PDF PAGE 96 -->
+            <head>A moſt ſtrange and true re<g ref="char:EOLhyphen"/>port of a monſterous Fiſh, that appeared in the forme of a Woman, from her waſt vpwardes: Seene in the Sea by diuers men of good reputation, on the 17. of February laſt paſt 1603<g ref="char:punc">▪</g> neare <hi>Gylmanes</hi> poynt, in the pariſh of <hi>Pendine</hi> in the Countie of <hi>Carmarthen.</hi>
+            </head>
+            <head>To his louing Kinſman and Friend M. <hi>H. P.</hi> at his lodging in London, theſe. &amp;c.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>Y moſt louing Cooſen,</salute>
+            </opener>
+            <p>like the touch of the pureſt <hi>Arabian</hi> Gold, haue I euer found your Loue, which ſo often hauing approued, in all true frindſhip hath obliged mee by all bondes of gentillitie and honeſty vnto you (eſpecially) for your kindly and paineful par<g ref="char:EOLhyphen"/>ticipating from time to time, all thoſe honorable ſer<g ref="char:EOLhyphen"/>uices done his moſt excellent Maieſtie, from place to place (in your Letters) ſo largely deſcribing his royaltie, and the ſubiects duetie: with the cheering whereof, our hartes were no leſſe repleniſhed with all comfort and true affection of loyaltie, then you, the moſt happy beholders thereof: with remem<g ref="char:EOLhyphen"/>brance of thoſe happie tydings, ſuch a ſimphanie of true zeale and duetie comoyning, as brought more comfort to our greeued hartes, which care had ouer charged with imaginations, That the care of the one, was expeld by the ioy of the others: and our de<g ref="char:EOLhyphen"/>cayed ſprightes reuiued, as <hi>Aqua Celeſtis</hi> the body, reſigning his lateſt gaſpe to his maker.</p>
+            <p>
+               <pb facs="tcp:180786:6"/>
+               <!-- PDF PAGE 97 -->
+For theſe, and millions of other your kind fauours (my good Cooſen) ſet me lade you with thankes, and ſo many wiſhes of happines &amp; proſperitie from all your Friendes, in the Weſterne Mountaines of <hi>Wales,</hi> as wee deſire: then ſhould you not neede (in ought that ſhould either conſerne the worldes felici<g ref="char:EOLhyphen"/>tie, or heauens bieſſedneſſe) but all in all ſhould con<g ref="char:EOLhyphen"/>curre to make you happie, both with God and men? The time is ſhort of my Meſſengers ſtay: his haſte on his iorney requiring haſte, yet could I not omit this oportunitie, to gratifie your <hi>London</hi> Newes of ioy, with a moſt rare and ſtrange matter here in our confines, not long fithence happening.</p>
+            <p>Strange things many haue publiſhed, as monſte<g ref="char:EOLhyphen"/>erous Birthes, ſtrange Beaſtes, taking of Whales and other ſtrange Fiſhes<g ref="char:punc">▪</g> fierie Dragons, &amp; ſtrange ſightes in the Ayre, ſome by nature, (others, as to<g ref="char:EOLhyphen"/>kens of Gods powerfull Maieſtie) all great and ad<g ref="char:EOLhyphen"/>myrable for men to wonder at, and exalt his glory, to the abating of mens pride, and for warning or vs that our ſinfull liues may be amended, that true re<g ref="char:EOLhyphen"/>pentance may follow, and pride<g ref="char:punc">▪</g> whoredome, brybe<g ref="char:EOLhyphen"/>rie, extortion, couetouſneſſe, letcherie, and ſuch like pernitious damnable vices, may be vtterly aboli<g ref="char:EOLhyphen"/>ſhed: reta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning in their place, the feare of Gods wrath for ſinne, charitable loue amongſt men, and all other holy preſcriptions from God, our gracious Soueraigne, and Preachers of his ſacred word.</p>
+            <p>I am ſomewhat tedious, good Cooſen: therefore I referre you to the true report of this moſt admirable and ſtrange newes, which on my credite I write you: but impart it with the beſt of our &amp; your good friendes, as foloweth. <hi>Viz.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:180786:6"/>
+               <!-- PDF PAGE 97 -->
+ON Fryday the xvij. day of Februarie laſt paſt <hi>1603.</hi> about three of the clocke in the after noone, one <hi>Thomas Raynold</hi> of <hi>Pendine,</hi> (a Village in the Countie of <hi>Carmarden</hi>) a very honeſt and ſubſtan<g ref="char:EOLhyphen"/>ciall Yeoman, walking neare the ſhores ſide, not far from a high Land or Poynt in the ſame pariſh, called <hi>Hollogoho,</hi> betweene <hi>Gylmanes</hi> Poynt and <hi>Tolwen,</hi> he ſaw ſwimming in the Sea (neare the Poynt) a moſt ſtrange and wonderfull thing: the greatnes and rarenes whereof, being of that forme and length, albeit he was a man of good ſence and ſpright, hauing reaſon and iudgement, more then many of no better education, droue him ſo to admire there at, that he ſpent the better part of two howers viewing of it, as it draue with the Tyde towardes the ſhore, betweene the two Poynts: where he did diſcouer it at his full pleaſure in this forme.</p>
+            <p>The ſhape of a very liuely Woman, from her waſt vpwardes, which was all aboue the water: her cullour browne: a very large and faire Paire: ouer which (to his ſeeming) was a thing like a Hood, about her necke in maner of a white Band, her Breſtes round and very white, with two fayre handes, eue<g ref="char:EOLhyphen"/>rie thing formally as a Woman.</p>
+            <p>
+               <hi>Thomas Raynold</hi> hauing with great wonder no<g ref="char:EOLhyphen"/>ted all this, neare two howers ſpace, in good fight, and tooke good notiſe thereof, imagining what might be thought, of vnbeleeuing people, if he ſhould report it, hauing no body to iuſtifie his wordes, al<g ref="char:EOLhyphen"/>though he be a man of credite: yet leauing it for a time, as waighing his reputation, ſpeedeth him in all haſte to the Towne, where, ſo many of his
+<pb facs="tcp:180786:7"/>
+               <!-- PDF PAGE 98 -->honeſt neighbours and cooſens as he could ſodaine<g ref="char:EOLhyphen"/>ly finde, he cauſed to goe with him to the Poynt, where he left it, to witneſſe what he had ſeene: who likewiſe had good view thereof halfe an houre and more, neuer changing any ſhape, but as <hi>Raynold</hi> had ſeene it. A moſt dreadfull woonder to many of thoſe beholders, which diuerſly cenſured thereof: ſome being afrayde, leaſt it might be otherwiſe then it ſhewed: Standing thus amazed at the ſight, with turning of the Tyde, it made way from the place where they ſaw it ſwimming: then in ſwimming, (which was more admirable) it appeared in cullour gray, with eares like a Hound, but ſomewhat grea<g ref="char:EOLhyphen"/>ter and ſhorter: her backe like vnto a Cock-boate, a full yard or more in breadth: her tayle to their ſee<g ref="char:EOLhyphen"/>ming, two fothomes in length: in her ſwimming ſhe went Soth-eaſt to the Sea: Then came ſhee North-eaſt to <hi>Tolwen,</hi> where ſhee continued vntill night: at which time, the darkeneſſe of the night approching, the beholders loſt her ſight, and from that time, was neuer ſeene more, or heard of as yet, about all the coaſt. Three howers full or more, they had perfect ſight of her, as I haue written.</p>
+            <p>The people, as a wonder, filled the pariſh with the rumor of this ſtrange ſight, and far and neare went the report. Amongſt many others which came, and ſent to <hi>Pendine,</hi> to heare the certaine newes hereof, one <hi>M. William Sandars,</hi> of the ſame Pariſh, hauing been for his Maieſties buſines at <hi>Garmarthen</hi> that day, at his home comming hearing a rumour here<g ref="char:EOLhyphen"/>of by his ſeruants, and knowing well <hi>Thomas Ray<g ref="char:EOLhyphen"/>nold</hi> to be a man of good name amongſt them, deſi<g ref="char:EOLhyphen"/>rous
+<pb facs="tcp:180786:7"/>
+               <!-- PDF PAGE 98 -->to be reſolued of the trueth hereof, on the mor<g ref="char:EOLhyphen"/>row following ſent for him, and examined him of euery part and particularitie hereof, as you haue heard, who confirmed the ſame vnto him: and for the better ſatisfaction of the ſaid <hi>M. Sandars, Raynold</hi> ſent for all thoſe, or the better ſort, which were pre<g ref="char:EOLhyphen"/>ſent with him, who confirmed vnder their handes, what <hi>Raynold</hi> had ſpoken: whoſe names I likewiſe ſend you, as they were ſubſcribed. <hi>Viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>The Examiner <hi>M. William Sandars</hi> of Penden.</hi>
+               </item>
+               <item>
+                  <hi>Examinates.</hi>
+                  <list>
+                     <item>
+                        <hi>Thomas Raynold.</hi>
+                     </item>
+                     <item>
+                        <hi>William Raynold.</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <hi>Iohn Raynold</hi> the elder.</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <hi>Iohn Raynold</hi> the younger.</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <hi>Dauid Moris</hi> Smith.</hi>
+                     </item>
+                     <item>
+                        <hi>Moriſh Webb.</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <hi>Harry Mores</hi> of Morras.</hi>
+                     </item>
+                     <item>
+                        <hi>Alice Row.</hi>
+                     </item>
+                     <item>
+                        <hi>Ioane Mories.</hi>
+                     </item>
+                     <item>
+                        <hi>Anne Mories.</hi>
+                     </item>
+                     <item>
+                        <hi>Elinor Bullocke.</hi>
+                     </item>
+                     <item>
+                        <hi>Kath<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rine Griphine.</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Day.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>With many others, both of <hi>Penden</hi> and other places.</p>
+            <p>What this woonder may pretend, to his Maieſtie that made vs all, it is beſt knowen: but with vs, greatly admired. Accept this (good Cooſen) which am at your ſeruice, and let vs all, as our bounden duetie, beſeech God all powerfull, and full of might, to bleſſe and preſerue our royall and moſt gratious king, the Queene, and all their Princely progenie: ſtrengthen our taythes, and continue our peace, to his eternall glory, &amp; our comfortes in Ieſus Chriſt.</p>
+            <closer>
+               <signed>Your Cooſen, and euer deuoted Friend: <hi>P. G.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
